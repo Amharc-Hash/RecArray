@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 void draw(int);
+
 int main()
 {
     int height;
